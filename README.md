@@ -35,18 +35,18 @@ Collections of awesome quantum noise/error suppression papers, projects and tuto
 ### applications
 
 
-# Perspective 
+## Perspective 
 
-## Gaps  
-### shortcomming of QEA and QEM
+### Gaps  
+#### shortcomming of QEA and QEM
 
 
-### Temporal Gaps on quantum device
-### Spatial Gaps on quantum device
+#### Temporal Gaps on quantum device
+#### Spatial Gaps on quantum device
 
-## QEA  
-### Logical Algorithm Optimization
-### Physical Layout Optimization
-### Physical/Logical Co-design Optimization
+### QEA  
+#### Logical Algorithm Optimization
+#### Physical Layout Optimization
+#### Physical/Logical Co-design Optimization
 
 
