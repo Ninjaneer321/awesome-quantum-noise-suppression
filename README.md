@@ -3,27 +3,29 @@ Collections of awesome quantum noise/error suppression papers, projects and tuto
 
 ## Projects and Tutorials 
 
-### Quantum error correction
+### Quantum error/noise correction
 
-### Quantum error mitigation
+### Quantum error/noise mitigation
 
 ### Quantum optimal control
 
-### Quantum error adaption
+### Quantum error/noise adaption
 
 
 
 ## Papers
 
-### Quantum error character
+### Quantum error/noise character
 
-### Quantum error correction
 
-### Quantum error mitigation
+
+### Quantum error/noise correction
+
+### Quantum error/noise mitigation
 
 ### Quantum optimal control
 
-### Quantum error adaption
+### Quantum error/noise adaption
 
 ### Robust Design framework
 
